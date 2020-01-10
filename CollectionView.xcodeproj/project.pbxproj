@@ -14,6 +14,7 @@
 		35815A2B23C8A31200E4EFBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35815A2A23C8A31200E4EFBF /* Assets.xcassets */; };
 		35815A2E23C8A31200E4EFBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35815A2C23C8A31200E4EFBF /* LaunchScreen.storyboard */; };
 		35815A3923C8A31200E4EFBF /* CollectionViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35815A3823C8A31200E4EFBF /* CollectionViewTests.swift */; };
+		35815A4423C8A5B500E4EFBF /* DataCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35815A4323C8A5B500E4EFBF /* DataCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		35815A3423C8A31200E4EFBF /* CollectionViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CollectionViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		35815A3823C8A31200E4EFBF /* CollectionViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTests.swift; sourceTree = "<group>"; };
 		35815A3A23C8A31200E4EFBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35815A4323C8A5B500E4EFBF /* DataCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				35815A2023C8A30D00E4EFBF /* AppDelegate.swift */,
 				35815A2223C8A30E00E4EFBF /* ViewController.swift */,
 				35815A2423C8A30E00E4EFBF /* Main.storyboard */,
+				35815A4323C8A5B500E4EFBF /* DataCollectionViewCell.swift */,
 				35815A2A23C8A31200E4EFBF /* Assets.xcassets */,
 				35815A2C23C8A31200E4EFBF /* LaunchScreen.storyboard */,
 				35815A2F23C8A31200E4EFBF /* Info.plist */,
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35815A4423C8A5B500E4EFBF /* DataCollectionViewCell.swift in Sources */,
 				35815A2923C8A30E00E4EFBF /* CollectionView.xcdatamodeld in Sources */,
 				35815A2323C8A30E00E4EFBF /* ViewController.swift in Sources */,
 				35815A2123C8A30D00E4EFBF /* AppDelegate.swift in Sources */,
